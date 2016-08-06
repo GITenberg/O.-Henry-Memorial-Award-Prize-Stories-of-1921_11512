@@ -1,0 +1,120 @@
+_repo: O.-Henry-Memorial-Award-Prize-Stories-of-1921_11512
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Creagan, Leo F.
+    gutenberg_agent_id: '34806'
+    url: http://www.gutenberg.org/2009/agents/34806
+  - agent_name: Tupper, Tristram
+    birthdate: 1884
+    deathdate: 1954
+    gutenberg_agent_id: '34805'
+    url: http://www.gutenberg.org/2009/agents/34805
+  - agent_name: Alexander, Elizabeth (Elizabeth Alexander Heermann)
+    alias: Heermann, Elizabeth Alexander
+    gutenberg_agent_id: '34798'
+    url: http://www.gutenberg.org/2009/agents/34798
+  - agent_name: Lewis, Orlando Faulkland
+    birthdate: 1873
+    deathdate: &id004 1922
+    gutenberg_agent_id: '34800'
+    url: http://www.gutenberg.org/2009/agents/34800
+  - agent_name: Cooper, Courtney Ryley
+    birthdate: &id002 1886
+    deathdate: &id001 1940
+    gutenberg_agent_id: '9081'
+    url: http://www.gutenberg.org/2009/agents/9081
+    wikipedia: http://en.wikipedia.org/wiki/Courtney_Ryley_Cooper
+  - agent_name: Chittenden, Gerald
+    birthdate: 1882
+    gutenberg_agent_id: '34797'
+    url: http://www.gutenberg.org/2009/agents/34797
+  - agent_name: Robbins, Leonard H. (Leonard Harman)
+    birthdate: 1877
+    deathdate: 1947
+    gutenberg_agent_id: '34804'
+    url: http://www.gutenberg.org/2009/agents/34804
+  - agent_name: Jackson, Charles Tenney
+    birthdate: 1874
+    gutenberg_agent_id: '34793'
+    url: http://www.gutenberg.org/2009/agents/34793
+  - agent_name: Beer, Thomas
+    birthdate: &id003 1889
+    deathdate: *id001
+    gutenberg_agent_id: '34796'
+    url: http://www.gutenberg.org/2009/agents/34796
+  - agent_name: Steele, Wilbur Daniel
+    birthdate: *id002
+    deathdate: 1970
+    gutenberg_agent_id: '5886'
+    url: http://www.gutenberg.org/2009/agents/5886
+    wikipedia: http://en.wikipedia.org/wiki/Wilbur_Daniel_Steele
+  - agent_name: Kerr, Sophie
+    alias: Underwood, Sophie Kerr
+    birthdate: 1880
+    deathdate: 1965
+    gutenberg_agent_id: '34803'
+    url: http://www.gutenberg.org/2009/agents/34803
+  - agent_name: Marshall, Edison
+    birthdate: 1894
+    deathdate: 1967
+    gutenberg_agent_id: '3967'
+    url: http://www.gutenberg.org/2009/agents/3967
+    wikipedia: http://en.wikipedia.org/wiki/Edison_Marshall
+  - agent_name: Cram, Mildred
+    birthdate: *id003
+    deathdate: 1985
+    gutenberg_agent_id: '34799'
+    url: http://www.gutenberg.org/2009/agents/34799
+    wikipedia: http://en.wikipedia.org/wiki/Mildred_Cram
+  - agent_name: Derieux, Samuel A. (Samuel Arthur)
+    alias: Derieux, Samuel Arthur
+    birthdate: 1881
+    deathdate: *id004
+    gutenberg_agent_id: '31720'
+    url: http://www.gutenberg.org/2009/agents/31720
+  - agent_name: Grant, Ethel Watts Mumford
+    alias: Mumford, Ethel Watts
+    birthdate: 1878
+    deathdate: *id001
+    gutenberg_agent_id: '4970'
+    url: http://www.gutenberg.org/2009/agents/4970
+  - agent_name: Allen, Maryland
+    aliases:
+    - Riley, Maryland
+    - Allen, Mrs. Edward Tyson
+    deathdate: 1927
+    gutenberg_agent_id: '34794'
+    url: http://www.gutenberg.org/2009/agents/34794
+  - agent_name: Kniffin, Harry Anable
+    gutenberg_agent_id: '34801'
+    url: http://www.gutenberg.org/2009/agents/34801
+creator:
+  editor:
+    agent_name: Williams, Blanche Colton
+    birthdate: 1879
+    deathdate: 1944
+    gutenberg_agent_id: '35248'
+    url: http://www.gutenberg.org/2009/agents/35248
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11512'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, American -- Periodicals'
+- !lcc 'PS'
+- GITenberg
+tableOfContents: The heart of little Shikara. By Marshall -- The man who cursed the
+  lilies. By Jackson -- The urge. By Allen -- Mummery. By Beer -- The victim of his
+  vision. By Chittenden -- Martin Gerrity gets even. By Cooper and Creagan -- Stranger
+  things. By Cram -- Comet. By Derieux -- Fifty-two weeks for Florette. By  Heermann
+  -- Wild earth. By Kerr -- The tribute. By Kniffin  -- The get-away. By Lewis --
+  "Aurore." By Mumford -- Mr. Downey sits down. By Robbins -- The marriage in Kairwan.
+  By Steele -- Grit. By Tupper.
+title: O. Henry Memorial Award Prize Stories of 1921
+url: http://www.gutenberg.org/ebooks/11512
